@@ -36,8 +36,9 @@ Fora do horário de aula ou monitoria:
 
 ## Praticas
 
-| script |
-|:-------|
+| script                                                                                                          |
+|:----------------------------------------------------------------------------------------------------------------|
+| [praticas/01-brasil-api.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/01-brasil-api.R) |
 
 ## Lição de casa
 
