@@ -36,10 +36,15 @@ Fora do horário de aula ou monitoria:
 
 ## Praticas
 
-| script                                                                                                          |
-|:----------------------------------------------------------------------------------------------------------------|
-| [praticas/01-brasil-api.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/01-brasil-api.R) |
-| [praticas/02-sabesp.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/02-sabesp.R)         |
+| script                                                                                                                |
+|:----------------------------------------------------------------------------------------------------------------------|
+| [praticas/01-brasil-api.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/01-brasil-api.R)       |
+| [praticas/02-sabesp.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/02-sabesp.R)               |
+| [praticas/03-sptrans.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/03-sptrans.R)             |
+| [praticas/04-twitter.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/04-twitter.R)             |
+| [praticas/05-covid.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/05-covid.R)                 |
+| [praticas/06-html.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/06-html.R)                   |
+| [praticas/07-chance-de-gol.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/07-chance-de-gol.R) |
 
 ## Lição de casa
 
