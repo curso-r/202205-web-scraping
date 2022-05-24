@@ -83,7 +83,8 @@ content(r_fipe_parm, simplifyDataFrame = TRUE) |>
 
 # pesquisar o preço de um carro na FIPE -----------------------------------
 
-cod_carro_fipe <- "0780081"
+
+cod_carro_fipe <- "0170623"
 endpoint_carro_fipe <- "/fipe/preco/v1/"
 u_carro <- paste0(u_base, endpoint_carro_fipe, cod_carro_fipe)
 
@@ -91,7 +92,7 @@ r_carro <- GET(u_carro)
 da_carro_hoje <- content(r_carro, simplifyDataFrame = TRUE) |>
   tibble::as_tibble()
 
-q_fipe <- list(tabela_referencia = 237)
+q_fipe <- list(tabela_referencia = 232)
 
 r_carro_2019 <- GET(u_carro, query = q_fipe)
 da_carro_2019 <- content(r_carro_2019, simplifyDataFrame = TRUE) |>
