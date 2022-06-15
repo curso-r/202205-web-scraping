@@ -9,3 +9,4 @@
 ^_config\.yml$
 ^README\.Rmd$
 ^LICENSE\.md$
+^\.httr-oauth$
