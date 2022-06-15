@@ -36,19 +36,24 @@ Fora do horário de aula ou monitoria:
 
 ## Praticas
 
-| script                                                                                                                |
-|:----------------------------------------------------------------------------------------------------------------------|
-| [praticas/01-brasil-api.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/01-brasil-api.R)       |
-| [praticas/02-sabesp.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/02-sabesp.R)               |
-| [praticas/03-sptrans.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/03-sptrans.R)             |
-| [praticas/04-twitter.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/04-twitter.R)             |
-| [praticas/05-covid.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/05-covid.R)                 |
-| [praticas/06-html.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/06-html.R)                   |
-| [praticas/07-chance-de-gol.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/07-chance-de-gol.R) |
-| [praticas/08-tjsp.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/08-tjsp.R)                   |
-| [praticas/10-wiki.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/10-wiki.R)                   |
-| [praticas/11-djt.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/11-djt.R)                     |
-| [praticas/12-jobs.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/12-jobs.R)                   |
+| script                                                                                                                            |
+|:----------------------------------------------------------------------------------------------------------------------------------|
+| [praticas/01-brasil-api.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/01-brasil-api.R)                   |
+| [praticas/02-sabesp.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/02-sabesp.R)                           |
+| [praticas/03-sptrans.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/03-sptrans.R)                         |
+| [praticas/04-twitter.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/04-twitter.R)                         |
+| [praticas/05-covid.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/05-covid.R)                             |
+| [praticas/06-html.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/06-html.R)                               |
+| [praticas/07-chance-de-gol.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/07-chance-de-gol.R)             |
+| [praticas/08-tjsp.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/08-tjsp.R)                               |
+| [praticas/10-wiki.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/10-wiki.R)                               |
+| [praticas/11-djt.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/11-djt.R)                                 |
+| [praticas/12-jobs.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/12-jobs.R)                               |
+| [praticas/13-pesqele.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/13-pesqele.R)                         |
+| [praticas/14-paineis.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/14-paineis.R)                         |
+| [praticas/xx-enio.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/xx-enio.R)                               |
+| [praticas/xx-experimentos-future.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/xx-experimentos-future.R) |
+| [praticas/xx-experimentos-purrr.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/xx-experimentos-purrr.R)   |
 
 ## Lição de casa
 
