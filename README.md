@@ -46,11 +46,14 @@ Fora do horário de aula ou monitoria:
 | [praticas/06-html.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/06-html.R)                               |
 | [praticas/07-chance-de-gol.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/07-chance-de-gol.R)             |
 | [praticas/08-tjsp.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/08-tjsp.R)                               |
+| [praticas/09-glueup.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/09-glueup.R)                           |
 | [praticas/10-wiki.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/10-wiki.R)                               |
 | [praticas/11-djt.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/11-djt.R)                                 |
 | [praticas/12-jobs.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/12-jobs.R)                               |
 | [praticas/13-pesqele.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/13-pesqele.R)                         |
 | [praticas/14-paineis.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/14-paineis.R)                         |
+| [praticas/15-captcha.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/15-captcha.R)                         |
+| [praticas/16-tjpb-jurisprudencia.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/16-tjpb-jurisprudencia.R) |
 | [praticas/xx-enio.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/xx-enio.R)                               |
 | [praticas/xx-experimentos-future.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/xx-experimentos-future.R) |
 | [praticas/xx-experimentos-purrr.R](https://github.com/curso-r/202205-web-scraping/blob/master/praticas/xx-experimentos-purrr.R)   |
